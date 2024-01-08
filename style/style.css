@@ -1,0 +1,182 @@
+/* commone style */
+body{
+    font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;
+}
+.primary-text{
+    color:#FD6E0A;
+}
+main{
+    max-width: 83%%;
+    margin: 0 auto;
+}
+/* baner section style */
+.baner{
+    margin:50px auto 0;
+    border: 0;
+    border-radius: 20px;
+    background-image:
+    linear-gradient(to top, rgba(41, 42, 53, 0.52), rgba(48, 35, 51, 0.705)),
+    url('../images/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    font-family:Merriweather;
+}
+.baner-section{
+padding: 140px 345px;
+}
+.baner-title{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+.baner-heading{
+    color: white;
+    text-align: center;
+    font-size: 75px;
+    font-weight: 900;
+    margin-top: 0;
+}
+/* section-1 related dtyle */
+.section-1{
+    margin: 120px auto;
+    text-align: center;
+}
+.section-offer{
+    font-size: 90px;
+    font-weight: 700;
+    font-family: Open Sans;
+    color: #FD6E0A;
+}
+.section-title{
+    font-size: 22px;
+    font-weight: 400;
+    font-family: Open Sans;
+    color: #FD6E0A;
+    margin-top: 45px;
+    margin-bottom: 15px;
+}
+.section-heading{
+    color: black;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: Open Sans;
+}
+/* section-2 related style */
+.section-2{
+    margin: 120px auto;
+    border: 0;
+    border-radius: 20px;
+    background-image:
+    linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),
+    url('../images/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    font-family:Merriweather;   
+}
+.section-container-2{
+    padding: 70px 500PX 0PX 128PX;
+}
+.section-title-2{
+    color: #fff;
+    font-size: 65px;
+    font-weight: 900;
+    font-family: Merriweather;
+    margin-bottom: 24px;
+}
+.section-description-2{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 17px;
+    font-weight: 400;
+    font-family:Open Sans ;
+    margin-top: 0px;
+    margin-bottom: 48px;
+}
+.button{
+    color:#fff ;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: Open Sans ;
+    margin-top: 0px;
+    margin-bottom: 20PX;
+    border: none;
+    background-color: black;
+}
+/* section-3 related style */
+.section-3{
+    margin: 120px auto;
+    width: 1320px;
+    height: 550px;
+    background-color: #FFF8F3;
+    align-items: center;
+    border-radius: 20px;
+}
+.section-container-3{
+    text-align: center;
+    padding: 80px;
+}
+.section-info{
+    font-size: 32px;
+    font-weight: 700px;
+    font-family:  Open Sans;
+}
+.button-2{
+    border-radius: 5px;
+    background: #FD6E0A;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding: 16px 32px;
+}
+/* gift-section related stylw */
+.gift-section{
+    margin: 120px auto;
+    width: 1320px;
+    
+    background-color: #FFF;
+    align-items: center;
+    border-radius: 20px;
+}
+.gift-title{
+    color:#FD6E0A ;
+    font-size:24px ;
+    font-weight:400;
+    font-family: Open Sans;
+    margin-bottom: 0px;
+}
+.gift-heading{
+    color:black ;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Merriweather;
+    margin-top: 16px;
+    margin-bottom: 20px;
+}
+.gift-description{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Open Sans;
+    margin-top: 0px;
+    margin-bottom: 45px;
+    padding: 0px 570px 0px 0px;
+}
+.images-colom{
+    margin-bottom: 20px;
+    display: flex;
+    gap: 20px;
+}
+/* subscribe-sectin related style */
+.subscribe-section{
+    margin: 120px auto;
+    width: 1320px;
+    height: 600px;
+    border: 0;
+    border-radius: 20px;
+    background-color: #FFF8F3;
+    align-items: center;
+}
