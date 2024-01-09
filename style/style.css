@@ -135,6 +135,51 @@ padding: 140px 345px;
     color: white;
     padding: 16px 32px;
 }
+/* optional-section */
+/* optiol-seaction-1 */
+.optiol-seaction-1{
+    margin: 120px auto;
+    width: 1320px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    background-color: white;
+}
+.op-colom-heading-1{
+    color: #FD6E0A;
+    font-size: 24px;
+    font-weight: 700;
+    font-family:Open Sans;
+}
+.op-colom-title-1{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Merriweather;
+}
+.op-colom-description-1{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Open Sans;
+}
+.op-colom-heading-2{
+    color: #FD6E0A;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Merriweather;
+}
+.op-colom-description-2{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Open Sans;
+}
+.op-colom-image-1{
+    border: 15px solid #FD6E0A;
+    border-radius: 50%;
+    padding: 45px;
+}
 /* gift-section related stylw */
 .gift-section{
     margin: 120px auto;
